@@ -33,7 +33,7 @@ Dasarnya diperlukan sebuah sistem untuk melakukan presensi online yang dapat dia
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/ememdeee/Wordpress-Class-Program/blob/main/Website/home2.JPG" width="1080"></a></p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/ememdeee/Wordpress-Class-Program/blob/main/Website/home3.JPG" width="1080"></a></p>
 
-Halaman home akan memberikan penjelasan singkat mengenai kegunaan dari aplikasi websiteyang dibangun, desain simple dan jelas yang digunakan pada aplikasi website ini dibangun menggunakan CSS Framework Booststrap. Pada halaman home juga diberikan tombol utama (presensi) yang akan mengarahkan pada halaman presensi yang dimana jika user belum melakukan login akan dilempar pada halaman login terlebih dahulu.
+[Halaman home](https://classprogram.id) dibangun menggunakan pure elementor dan menggabungkan desain bawaan dari tema wordpress yang digunakan. pada halaman home ini diberikan gambaran semenarik dan unik mungkin agar pengguna bisa percaya dan terkesan dengan website yang digunakan untuk mereka belajar daring nantinya.
 
 ### Pembelian & Keranjang
 
@@ -41,19 +41,15 @@ Halaman home akan memberikan penjelasan singkat mengenai kegunaan dari aplikasi 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/ememdeee/Wordpress-Class-Program/blob/main/Website/buy2.JPG" width="1080"></a></p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/ememdeee/Wordpress-Class-Program/blob/main/Website/Keranjang.JPG" width="1080"></a></p>
 
-Sebelum dapat melakukan input data kehadiran, user diharuskan untuk melakukan login terlebih dahulu. Dapat dilihat bagaimana user interface dari halaman login dan registrasi pada gambar yang terlampir diatas.
+Setelah menemukan kelas yang pengguna rasa cocok dengan kebutuhannya, pengguna akan diberikan informasi lebih lanjut mengenai durasi pembelajaran dan mata kuliah yang akan ia dapatkan disetiap paketnya (Basic, atau Excelent) seperti pada [gambar ke 1] (https://classprogram.id/kelas-tugas-kuliah/), jika user sudah mengetahui apasaja kelas yang akan ia dapat, user dapat melanjutkan ke proses pembelian dan melakukan pembayaran.
 
 ### Login
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/ememdeee/Wordpress-Class-Program/blob/main/Website/login sebelum checkout.JPG" width="1080"></a></p>
 
-Pada halaman utama dari aplikasi website ini pertama akan disedia kan section yang menunjukan peta real time yang menunjukan 2 buah titik point yaitu lokasi user dan lokasi kantor, dengan disediakannya section map ini akan lebih mudah bagi user untuk mengetahui seberapa jauh jarak ia ke kantor karena pada dasarnya **TERDAPAT SYARAT JARAK MINIMUM ANTARA USER DAN KANTOR JIKA USER INGIN MELAKUKAN PRESENSI** yaitu >=20 Meter (admin dapat mengatur sesuka hati pada halaman admin).
+Jika pengguna belum melakukan login, maka proses checkout akan diarahkan terlebih dahulu menuju halaman login(https://classprogram.id/profil-saya/?redirect_to_checkout) agar user dapat menyimpan data dirinya seperti nama, kelas, email, asal, dan lain lain suapaya tidak memerlukan pengisian data lagi dalam proses pembelian selanjutnya.
 
-- Gambar pertama (kiri) adalah contoh dari proses input data kehadiran jika user berada **jauh dari kantor (input data gagal)**
-
-- Gambar kedua (kanan) adalah contoh dari proses input data kehadiran jika user berada **dekat dari kantor (input data berhasil)**
-
-### Plugin yang digunakan (blm)
+## Plugin yang digunakan (blm)
 
 - Melihat hasil presensi pada hari ini (Halaman Utama Dashboard)
 - Melihat hasil presensi user tertentu dengan kurun waktu tertentu (Advanced Search)
