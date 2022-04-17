@@ -25,7 +25,6 @@ Website ini dibangun tidak jauh dari fitur fitur yang disediakan dari CMS dan ju
 
 ## User Interface Website
 
-Dasarnya diperlukan sebuah sistem untuk melakukan presensi online yang dapat diakses dengan mudah, maka dibuatlah sebuah sistem presensi online berbasis website yang dilengkapi dengan progressive web apps agar dapat diunduh dan diakses dengan cepat oleh user layaknya menggunakan aplikasi android dan dibangun menggunakan framework Laravel. Hasil dari sistem presensi daring berbasis progressive web apps dapat dilihat pada serangkaian sub bab dibawah ini antara lain adalah halaman home, login, registrasi, halaman presensi, dan dashboard (khusus admin)
 
 ### Home
 
@@ -41,24 +40,30 @@ Dasarnya diperlukan sebuah sistem untuk melakukan presensi online yang dapat dia
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/ememdeee/Wordpress-Class-Program/blob/main/Website/buy2.JPG" width="1080"></a></p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/ememdeee/Wordpress-Class-Program/blob/main/Website/Keranjang.JPG" width="1080"></a></p>
 
-Setelah menemukan kelas yang pengguna rasa cocok dengan kebutuhannya, pengguna akan diberikan informasi lebih lanjut mengenai durasi pembelajaran dan mata kuliah yang akan ia dapatkan disetiap paketnya (Basic, atau Excelent) seperti pada [gambar ke 1] (https://classprogram.id/kelas-tugas-kuliah/), jika user sudah mengetahui apasaja kelas yang akan ia dapat, user dapat melanjutkan ke proses pembelian dan melakukan pembayaran.
+Setelah menemukan kelas yang pengguna rasa cocok dengan kebutuhannya, pengguna akan diberikan informasi lebih lanjut mengenai durasi pembelajaran dan mata kuliah yang akan ia dapatkan disetiap paketnya (Basic, atau Excelent) seperti pada [gambar ke 1](https://classprogram.id/kelas-tugas-kuliah/), jika user sudah mengetahui apasaja kelas yang akan ia dapat, user dapat melanjutkan ke proses pembelian dan melakukan pembayaran.
 
 ### Login
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/ememdeee/Wordpress-Class-Program/blob/main/Website/login sebelum checkout.JPG" width="1080"></a></p>
 
-Jika pengguna belum melakukan login, maka proses checkout akan diarahkan terlebih dahulu menuju halaman login(https://classprogram.id/profil-saya/?redirect_to_checkout) agar user dapat menyimpan data dirinya seperti nama, kelas, email, asal, dan lain lain suapaya tidak memerlukan pengisian data lagi dalam proses pembelian selanjutnya.
+Jika pengguna belum melakukan login, maka proses checkout akan diarahkan terlebih dahulu menuju halaman [login](https://classprogram.id/profil-saya/?redirect_to_checkout) agar user dapat menyimpan data dirinya seperti nama, kelas, email, asal, dan lain lain suapaya tidak memerlukan pengisian data lagi dalam proses pembelian selanjutnya.
 
 ## Plugin yang digunakan (blm)
 
-- Melihat hasil presensi pada hari ini (Halaman Utama Dashboard)
-- Melihat hasil presensi user tertentu dengan kurun waktu tertentu (Advanced Search)
-- Mengganti lokasi kantor (Latitude & Longitude)
+- [MailPoet](https://www.mailpoet.com).
+- [Elementor](https://elementor.com/?gspk=MjgzNzk&gsxid=EJOQ0yiGSLRu&sid1=AAYU&sid2=3f44542a2b7444529c623e28271b7297&utm_campaign=28379&utm_content=default&utm_medium=affiliate&utm_source=elementor).
+- [Jetpack](https://jetpack.com)
+- [SEO Yoast](https://yoast.com)
+- [WordFence Security](https://id.wordpress.org/plugins/wordfence/)
+- [Contact Form 7](https://id.wordpress.org/plugins/contact-form-7/)
+- [WooCommerce](https://woocommerce.com)
+- [LiteSpeed Cache for WordPress](https://id.wordpress.org/plugins/litespeed-cache/)
+- 
 
-## Kesimpulan (blm)
+## Kesimpulan
 
-Aplikasi website berbasis progressive Web Apps ini bekerja dengan cukup baik dimana dapat diakses dengan mudah layaknya menggunakan sebuah aplikasi android karena fungsi khusus dari website modern yaitu Progressive Web Apps dan dengan baik dapat digunakan untuk melakukan rekap data kehadiran disuaru instansi. Pada projek selanjutnya akan segera saya tambahkan sebuah persyaratan menarik lainya dalam melakukan presensi online yaitu sebuah sistem pengenalan wajah sebagai sistem keamanan tambahan yang juga dilapisi sistem keamanan lainya yaitu [Liveness Detection](https://www.electronicid.eu/en/blog/post/face-liveness-detection-spoofing-face-recognition/en) menggunakan teknik [Machine Learning](https://www.sas.com/en_us/insights/analytics/machine-learning.html#:~:text=Machine%20learning%20is%20a%20method,decisions%20with%20minimal%20human%20intervention). Tunggu unggahan terbaru selanjutnya di repository saya lainya (coming soon). 
+Aplikasi website yang dibangun menggunakan CMS Wordpress untuk [Class Program](https://classprogram.id) berhasil dibangun sesempurna mungkin dan dapat bermanfaat bagi [PT. Zona Media Group](https://www.instagram.com/zonamediagroup.id/) dan dapat membantu perjuangannya untuk menjadi platform belajar daring nomer 1 dengan sistem kenaikan kelas di Indonesia.
 
-## Kontributor (blm)
+## Kontributor
 
-Terimakasih untuk bimbinganya dalam pelaksanaan Praktik Kerja Lapangan atau Internship yang saya lalui selama 6 bulan di CV. Girisa Teknologi terutama kepada Dosen Pembimbing 1 Pak Ir. Oesman Hendra Kelana, M.Div, M.Cs, Dosen pembimbing lapangan Pak Masngud dari Girisa Teknologi, kawan saya [Chesa](https://google.com) sebagai teman coding dan bertukar pikiran dari Universitas Malang, dan teman teman lainya dengan dukungan moral yang juga sangat berarti.
+Terimakasih untuk kesemaptan dan pengalamanya oleh [PT. Zona Media Group](https://www.instagram.com/zonamediagroup.id/) yang telah memberi saya banyak ilmu dan keahlian dalam bidang building website menggunakan CMS Wordpress yang bermula sebagai Junior Web Developer dan berhasil disiapkan juga menyiapkan diri menjadi senior Web Developer.
