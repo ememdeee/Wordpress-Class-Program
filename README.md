@@ -58,7 +58,6 @@ Jika pengguna belum melakukan login, maka proses checkout akan diarahkan terlebi
 - [Contact Form 7](https://id.wordpress.org/plugins/contact-form-7/)
 - [WooCommerce](https://woocommerce.com)
 - [LiteSpeed Cache for WordPress](https://id.wordpress.org/plugins/litespeed-cache/)
-- 
 
 ## Kesimpulan
 
